@@ -64,7 +64,7 @@ The Safety Radar system successfully detects and displays objects within the spe
 
 5. Follow the circuit diagram to wire the components correctly and ensure proper connections.
 
-##Pictures
+## Pictures
 ![Screenshot (286)](https://github.com/ugandhar-sist/Safety-radar/assets/137391299/b93622ae-3ccb-4ee8-97ce-c5490fb3eeb0)
 
 
