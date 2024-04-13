@@ -68,7 +68,7 @@ The Safety Radar system successfully detects and displays objects within the spe
 ![Screenshot (286)](https://github.com/ugandhar-sist/Safety-radar/assets/137391299/b93622ae-3ccb-4ee8-97ce-c5490fb3eeb0)
 
 
-![20231012_113647](https://github.com/ugandhar-sist/Safety-radar/assets/137391299/3d38e376-0692-4138-b48d-c204870697aa)
+![20231012_113640](https://github.com/ugandhar-sist/Safety-radar/assets/137391299/872c39bf-10cf-4e44-bb09-1f5cf8fcf3fb)
 
 
 ![1713011228150](https://github.com/ugandhar-sist/Safety-radar/assets/137391299/1a1d596e-0ed1-4dcb-a0d5-7e40d13adf18)
