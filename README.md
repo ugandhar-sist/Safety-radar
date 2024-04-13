@@ -64,6 +64,17 @@ The Safety Radar system successfully detects and displays objects within the spe
 
 5. Follow the circuit diagram to wire the components correctly and ensure proper connections.
 
+##Pictures
+![Screenshot (286)](https://github.com/ugandhar-sist/Safety-radar/assets/137391299/b93622ae-3ccb-4ee8-97ce-c5490fb3eeb0)
+
+
+![20231012_113647](https://github.com/ugandhar-sist/Safety-radar/assets/137391299/3d38e376-0692-4138-b48d-c204870697aa)
+
+
+![1713011228150](https://github.com/ugandhar-sist/Safety-radar/assets/137391299/1a1d596e-0ed1-4dcb-a0d5-7e40d13adf18)
+
+
+
 ## Conclusion
 
 This project showcases the design and implementation of a Safety Radar system using Arduino and Processing software. By utilizing a servo motor, ultrasonic sensor, and Arduino board, the system effectively detects and displays objects within a specified range, enhancing safety and awareness in various applications.
